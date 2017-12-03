@@ -5,9 +5,9 @@
 
         <section class="how">
             <h4>Company Information</h4>
-            <img  src='images/Books.jpg' alt='ABC Book Store' class="imageProp"/>
-            <p>ABC Book Store is an online marketplace for books.Hundreds of books are offered for sale through the ABC Book Store websites. </p> 
-            <p>Customers can find latest books, and can search books by their name and categories. Our mission is to help people find and buy book online. </p>
+            <img  src='images/download.jpg' alt='Tune Store' class="imageProp"/>
+            <p>Tune Store is an online marketplace for music.Hundreds of music tunes are offered for sale through the Tune Store website. </p> 
+            <p>Customers can find latest music, and can search tunes by their name and categories. Our mission is to help people find and buy music online. </p>
         </section>
         <div class="cl">&nbsp;</div>
     </div>
